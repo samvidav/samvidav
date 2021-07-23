@@ -27,5 +27,5 @@ Lead tutorials on mathematical modelling and statistics for first-year biomedica
 **Faculty, Oxbridge Academic Programs, University of Cambridge** (_2019_) \
 Created syllabus and taught seminar-style classes on Molecular Biology for students aged 13-15.
 
-**Head Tutor, McGraw Centre for Teaching and Learning, Princeton University** (_2016-2019_) \ 
+**Head Tutor, McGraw Centre for Teaching and Learning, Princeton University** (_2016-2019_) \
 Tutored 350+ fellow undergraduates in introductory math and science courses in individual & group sessions. 
