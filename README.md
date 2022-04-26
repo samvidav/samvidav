@@ -20,6 +20,9 @@ Designed web-accessible tool to visualise and analyse spatially and temporally d
 2.	Federspiel JD*, Cook KC*, Kennedy MA*, **Venkatesh SS***, et al. (2020) Mitochondria and peroxisome remodelling across cytomegalovirus infection time viewed through the lens of Inter-ViSTA. [Cell Reports 32(4): e107943](https://www.sciencedirect.com/science/article/pii/S2211124720309244)
 3.	Federspiel JD, Tandon P, …, **Venkatesh SS**, et al. (2019) Conservation and divergence of protein pathways in the vertebrate heart. [PLoS Biol 17(9): e3000437](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000437)
 
+## Awards
+1. **Best Trainee Talk**, European Mathematical Genetics Meeting, Cambridge UK (_2022_)
+
 ## Teaching
 **Maths and Statistics Tutor, University of Oxford** (_2020-Present_) \
 Lead tutorials on mathematical modelling and statistics for first-year biomedical sciences undergraduates. Design and conduct workshops for postgraduate & postdoctoral researchers on statistics & data management. 
