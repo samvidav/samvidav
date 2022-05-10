@@ -21,7 +21,7 @@ Designed web-accessible tool to visualise and analyse spatially and temporally d
 3.	Federspiel JD, Tandon P, …, **Venkatesh SS**, et al. (2019) Conservation and divergence of protein pathways in the vertebrate heart. [PLoS Biol 17(9): e3000437](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000437)
 
 ## Awards
-1. **Best Trainee Talk**, European Mathematical Genetics Meeting, Cambridge UK (_2022_)
+1. **Best Trainee Talk**, European Mathematical Genetics Meeting, Cambridge UK (_2022_) - [View talk here](https://www.youtube.com/watch?v=bUpNCU_3ivk&list=PLbvdNT0i2SCx91f4WEF-oJot8XhSui7FP&index=1&t=4169s)
 
 ## Teaching
 **Maths and Statistics Tutor, University of Oxford** (_2020-Present_) \
