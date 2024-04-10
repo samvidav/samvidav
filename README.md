@@ -1,8 +1,8 @@
-# Samvida S. Venkatesh
+# Dr. Samvida S. Venkatesh
 
 ## Education
-**University of Oxford, UK** (_Est. graduation 2024_) \
-D.Phil Candidate in Genomic Medicine and Statistics; Rhodes Scholar, Clarendon Scholar, Wellcome Trust PhD Studentship
+**University of Oxford, UK** (_Graduated April 2024_) \
+D.Phil in Genomic Medicine and Statistics; Rhodes Scholar, Clarendon Scholar, Wellcome Trust PhD Studentship
 
 **Princeton University, Princeton, NJ, United States** (_Graduated 2019_) \
 A.B. in Molecular Biology; Certificates: Computer Science, Quantitative and Computational Biology \
