@@ -48,7 +48,7 @@ Sole supervisor for thesis titled: "Investigating genetic variants assocaiated w
 **Maths and Statistics Tutor, University of Oxford** (_2020-Present_) \
 Lead tutorials on mathematical modelling and statistics for first-year biomedical sciences undergraduates. Design and conduct workshops for postgraduate & postdoctoral researchers on statistics & data management. 
 
-**Waynflete Academic in Biology, Magdalen College School, Oxford** (_2023-Present_) \
+**Waynflete Academic in Biology, Magdalen College School, Oxford** (_2023-2024_) \
 Advise on extended research projects for Sixth Form students. Design and provide enrichment content for weekly Biology Society meetings. Prepare students for Oxbridge applications and interviews.
 
 **Faculty, Oxbridge Academic Programs, University of Cambridge** (_2019_, _2023_) \
