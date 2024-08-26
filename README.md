@@ -11,8 +11,10 @@ Phi Beta Kappa, Sigma Xi, Summa cum Laude, Senior Thesis Prize, Shapiro Prize fo
 ## Research Experience
 **Holmes and Hughes Groups, Dept. of Statistics and Weatherall Institute of Molecular Medicine, University of Oxford** (_2024-Present_) \
 Triangulate statistical and machine learning methods to evaluate molecular and phenotypic effects of non-coding genetic variation.
+
 **Lindgren Group, Big Data Institute, University of Oxford** (_2020-2024_) \
 Analyse longitudinal multivariate quantitative traits such as adiposity and hormone measures to elucidate their underlying genetic architecture and contributions to the development of common complex human diseases.
+
 **Cristea Lab, Dept. of Molecular Biology, Princeton University** (_2017-2019_) \
 Designed web-accessible tool to visualise and analyse spatially and temporally dynamic protein-protein interactions. Conducted wet-lab experiments to elucidate viral-host protein interactions in HCMV. 
 
@@ -35,6 +37,7 @@ Designed web-accessible tool to visualise and analyse spatially and temporally d
 ## Consulting (Part-Time)
 **AI Research Assistant, Ellison Institute of Technology, Oxford** (_2024-Present_) \
 Catalogue the AI and data landscape for scientific programs, bridging needs of science-focussed teams with methods development in the data and compute teams.
+
 **Statistics Consultant, Atticus Group LLC, USA** (_2019-Present_) \
 Conduct statistical analyses to produce figures, tables, and text for manuscripts on medical technology (4 to date).
 
