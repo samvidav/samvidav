@@ -1,7 +1,10 @@
 # Samvida S. Venkatesh
 
 ## Employment
-**Schmidt AI in Science Postdoctoral Researcher**, Dept. of Statistics and Weatherall Institute of Molecular Medicine, University of Oxford (_2024-Present_) \
+**Senior Deep Learning/AI Engineer**, Illumina, Cambridge, UK (_2025-Present_) \
+Develop algorithms for deciphering the human genetic code, diagnosing pathogenic genetic variants by combining information from detailed clinical phenotypes and genomic data.
+
+**Schmidt AI in Science Postdoctoral Researcher**, Dept. of Statistics and Weatherall Institute of Molecular Medicine, University of Oxford (_2024-2025_) \
 Triangulate statistical and machine learning methods to evaluate molecular and phenotypic effects of non-coding genetic variation.
 
 ## Education
