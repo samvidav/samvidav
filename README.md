@@ -23,14 +23,15 @@ Analyse longitudinal multivariate quantitative traits such as adiposity and horm
 Designed web-accessible tool to visualise and analyse spatially and temporally dynamic protein-protein interactions. Conducted wet-lab experiments to elucidate viral-host protein interactions in HCMV. 
 
 ## Publications and pre-prints
-1. **Venkatesh SS**, Wittemans LBL, Palmer D, et al. (2025) Genome-wide analyses identify 25 infertility loci and relationships with reproductive traits across the allele frequency spectrum. [Nat Genet. 2025 Apr 14. doi: 10.1038/s41588-025-02156-8.](https://www.nature.com/articles/s41588-025-02156-8)
-2. Baya NA, Sur-Erdem I, **Venkatesh SS**, et al. (2024)  Combining evidence from human genetic and functional screens to identify pathways altering obesity and fat distribution. [medRxiv 2024.09.19.24313913.](https://www.medrxiv.org/content/10.1101/2024.09.19.24313913v1)
-3. Currant H, Arthofer C, …, **Venkatesh SS**, et al. (2024) Genome-wide analysis identifies 66 variants underlying anatomical variation in human neuroendocrine structures and reveals links to testosterone. [medRxiv 2024.08.01.24311295.](https://www.medrxiv.org/content/10.1101/2024.08.01.24311295v3)
-4. **Venkatesh SS**, Ganjgahi H, Palmer DS, et al. (2024) Characterising the genetic architecture of changes in adiposity during adulthood using electronic health records. [Nat Commun. 2024 Jul 10;15(1):5801.](https://www.nature.com/articles/s41467-024-49998-0)
-5. Lassen FH, **Venkatesh SS**, Baya N, et al. (2024) Exome-wide evidence of compound heterozygous effects across common phenotypes in the UK Biobank. [Cell Genom. 2024 Jul 10;4(7):100602.](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00196-4)
-6. **Venkatesh SS**, Ferreira T, Benonisdottir S, et al. (2022) The role of obesity in female reproductive conditions: A Mendelian Randomisation study. [PLoS Med 19(2): e1003679](https://doi.org/10.1371/journal.pmed.1003679)
-7. Federspiel JD*, Cook KC*, Kennedy MA*, **Venkatesh SS***, et al. (2020) Mitochondria and peroxisome remodelling across cytomegalovirus infection time viewed through the lens of Inter-ViSTA. [Cell Reports 32(4): e107943](https://www.sciencedirect.com/science/article/pii/S2211124720309244)
-8. Federspiel JD, Tandon P, …, **Venkatesh SS**, et al. (2019) Conservation and divergence of protein pathways in the vertebrate heart. [PLoS Biol 17(9): e3000437](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000437)
+1. Baya NA, Sur-Erdem I, **Venkatesh SS**, et al. (2025) Combining evidence from human genetic and functional screens to identify pathways altering obesity and fat distribution. [Am J Hum Genet. 2025 Aug 29:S0002-9297(25)00323-4. doi: 10.1016/j.ajhg.2025.08.013.](https://www.cell.com/ajhg/fulltext/S0002-9297(25)00323-4)
+2. Riva SG, **Venkatesh SS**, Gur ER, et al. (2025) CREST-GV: Cell types Ranking and Enrichment Score for selecTive Genetic Variants. [medRxiv 2025.07.29.25332311.](https://www.medrxiv.org/content/10.1101/2025.07.29.25332311v1)
+3. **Venkatesh SS**, Wittemans LBL, Palmer D, et al. (2025) Genome-wide analyses identify 25 infertility loci and relationships with reproductive traits across the allele frequency spectrum. [Nat Genet. 2025 Apr 14. doi: 10.1038/s41588-025-02156-8.](https://www.nature.com/articles/s41588-025-02156-8) 
+4. Currant H, Arthofer C, …, **Venkatesh SS**, et al. (2024) Genome-wide analysis identifies 66 variants underlying anatomical variation in human neuroendocrine structures and reveals links to testosterone. [medRxiv 2024.08.01.24311295.](https://www.medrxiv.org/content/10.1101/2024.08.01.24311295v3)
+5. **Venkatesh SS**, Ganjgahi H, Palmer DS, et al. (2024) Characterising the genetic architecture of changes in adiposity during adulthood using electronic health records. [Nat Commun. 2024 Jul 10;15(1):5801.](https://www.nature.com/articles/s41467-024-49998-0)
+6. Lassen FH, **Venkatesh SS**, Baya N, et al. (2024) Exome-wide evidence of compound heterozygous effects across common phenotypes in the UK Biobank. [Cell Genom. 2024 Jul 10;4(7):100602.](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00196-4)
+7. **Venkatesh SS**, Ferreira T, Benonisdottir S, et al. (2022) The role of obesity in female reproductive conditions: A Mendelian Randomisation study. [PLoS Med 19(2): e1003679](https://doi.org/10.1371/journal.pmed.1003679)
+8. Federspiel JD*, Cook KC*, Kennedy MA*, **Venkatesh SS***, et al. (2020) Mitochondria and peroxisome remodelling across cytomegalovirus infection time viewed through the lens of Inter-ViSTA. [Cell Reports 32(4): e107943](https://www.sciencedirect.com/science/article/pii/S2211124720309244)
+9. Federspiel JD, Tandon P, …, **Venkatesh SS**, et al. (2019) Conservation and divergence of protein pathways in the vertebrate heart. [PLoS Biol 17(9): e3000437](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000437)
 
 ## Conference Presentations
 1. **Invited Speaker**, South of England Genetic Epidemiology Meeting, Exeter, UK (_2024_)
@@ -43,7 +44,7 @@ Designed web-accessible tool to visualise and analyse spatially and temporally d
 **AI Research Assistant, Ellison Institute of Technology, Oxford** (_2024_) \
 Catalogue the AI and data landscape for scientific programs, bridging needs of science-focussed teams with methods development in the data and compute teams.
 
-**Statistics Consultant, Atticus Group LLC, USA** (_2019-Present_) \
+**Statistics Consultant, Atticus Group LLC, USA** (_2019-2024_) \
 Conduct statistical analyses to produce figures, tables, and text for manuscripts on medical technology (4 to date).
 
 ## Teaching
